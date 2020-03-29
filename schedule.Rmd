@@ -1,0 +1,41 @@
+---
+title: "Schedule"
+---
+
+<br>
+
+```{r, out.width = "100%", echo = F}
+knitr::include_graphics(c(
+  "images/sundarbans-long.png",
+  NULL
+))
+```
+
+<br>
+
+# {.tabset .tabset-fade}
+
+## **Upcoming events**
+
+<br>
+
+TBD on Zoom
+
+<br><br>
+
+---
+
+<font color="#d3d3d3">*Image credits:* ESA/Copernicus/Sentinel-2, [CC BY-SA 3.0 IGO](http://www.esa.int/ESA_Multimedia/Terms_and_Conditions)</font>
+
+
+## **Past events**
+
+<br>
+
+We will post links to the videos from past seminars here.
+
+<br><br>
+
+---
+
+<font color="#d3d3d3">*Image credits:* ESA/Copernicus/Sentinel-2, [CC BY-SA 3.0 IGO](http://www.esa.int/ESA_Multimedia/Terms_and_Conditions)</font>

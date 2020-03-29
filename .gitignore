@@ -1,0 +1,5 @@
+# Files to ignore
+*_cache
+*SavedFiles/
+*DS_Store
+*.Rhistory

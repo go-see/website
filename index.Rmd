@@ -1,0 +1,38 @@
+---
+title: "GoSee"
+---
+
+#### Global Open Series in Environmental Economics
+
+```{r, out.width = "100%", echo = F}
+knitr::include_graphics(c(
+  "images/namibia-long.png",
+  # "images/baltic-bloom.jpg",
+  # "images/bolivia-deforestation.jpg",
+  # "images/pakistan-coast.jpg",
+  # "images/lake-st-clair.jpg",
+  # "images/nz-volcano.jpg",
+  # "images/lena-delta.jpg",
+  NULL
+))
+```
+
+<br>
+
+### Mission
+
+The **Global Open Series in Environmental Economics** (GoSee) unites researchers, policymakers, and other key actors around the world to propose, discuss, and ultimately solve key environmental and economic issues.
+
+<br>
+
+We hope that this series breaks down many traditional barriers—across institutions, nations, classes, _etc._ All are welcome.
+
+<br>
+
+You can submit an abstract [here]() or simply join the mailing list [here]().
+
+<br><br>
+
+---
+
+<font color="#d3d3d3">*Image credits:* ESA/Copernicus/Sentinel-2, [CC BY-SA 3.0 IGO](http://www.esa.int/ESA_Multimedia/Terms_and_Conditions)</font>

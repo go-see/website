@@ -1,0 +1,14 @@
+name: "GoSee"
+navbar:
+  title: "GoSee"
+  type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: lumen

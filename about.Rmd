@@ -1,0 +1,40 @@
+---
+title: "About GoSee"
+---
+
+<br>
+
+```{r, out.width = "100%", echo = F}
+knitr::include_graphics(c(
+  "images/lena-delta-long.png",
+  NULL
+))
+```
+
+### Story
+
+While the initial organization started with [Antonio Bento](https://priceschool.usc.edu/people/antonio-m-bento/), dozens of researchers across the globe help organize and support GoSee.
+
+<br>
+
+### Supporters
+
+Some of these researchers include (or have included)
+
+<br>
+
+<div style="float: left; width: 33%;">
+- [Antonio Bento](https://priceschool.usc.edu/people/antonio-m-bento/)
+</div>
+<div style="float: left; width: 33%;">
+- [Ariel Ortiz-Bobea](https://dyson.cornell.edu/faculty-research/faculty/ao332/)
+</div>
+<div style="float: right; width: 33%;">
+- [Ed Rubin](https://edrub.in)
+</div>
+
+<br><br>
+
+---
+
+<font color="#d3d3d3">*Image credits:* ESA/Copernicus/Sentinel-2, [CC BY-SA 3.0 IGO](http://www.esa.int/ESA_Multimedia/Terms_and_Conditions)</font>
