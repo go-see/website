@@ -6,13 +6,7 @@ title: "GoSee"
 
 ```{r, out.width = "100%", echo = F}
 knitr::include_graphics(c(
-  "images/namibia-long.png",
-  # "images/baltic-bloom.jpg",
-  # "images/bolivia-deforestation.jpg",
-  # "images/pakistan-coast.jpg",
-  # "images/lake-st-clair.jpg",
-  # "images/nz-volcano.jpg",
-  # "images/lena-delta.jpg",
+  "images/namibia-long-small.png",
   NULL
 ))
 ```

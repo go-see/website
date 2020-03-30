@@ -6,7 +6,7 @@ title: "Schedule"
 
 ```{r, out.width = "100%", echo = F}
 knitr::include_graphics(c(
-  "images/sundarbans-long.png",
+  "images/sundarbans-long-small.png",
   NULL
 ))
 ```
