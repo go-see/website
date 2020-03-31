@@ -20,8 +20,12 @@ knitr::include_graphics(c(
 <br>
 
 **When:** Wednesday, [22 April 2020, 7AM-9AM PST](https://everytimezone.com/s/2e1253ba)
-<br>
+
 **Where:** Zoom (a meeting link will be shared with registrants)
+
+<br>
+
+To receive information about our events and/or to submit to present, please [register here](https://edrubin.typeform.com/to/WpCbOW).
 
 <br><br>
 
