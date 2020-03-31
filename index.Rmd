@@ -15,7 +15,7 @@ knitr::include_graphics(c(
 
 ### Mission
 
-The **Global Open Series in Environmental Economics** (GoSee) unites researchers, policymakers, and other key actors around the world to propose, discuss, and ultimately solve key environmental and economic issues.
+The **Global Open Series in Environmental Economics** (GoSee) is a global, open-source network of professionals working to develop solutions for the most pressing environmental challenges of our time. Our goal: Evidence-based solutions that inform policy and can be easily implemented. As such, we aim to bring together academics, policymakers, NGOs, and the private sector to strengthen the connection between the interests of research communities and the needs of individuals on the ground who seek sound and implementable solutions.
 
 <br>
 
@@ -23,7 +23,7 @@ We hope that this series breaks down many traditional barriers—across institut
 
 <br>
 
-You can submit an abstract [here]() or simply join the mailing list [here]().
+To receive information about our events and/or to submit to present, please [register here](https://edrubin.typeform.com/to/WpCbOW).
 
 <br><br>
 

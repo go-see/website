@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Call for presentations</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 54px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 59px;
+  margin-top: -59px;
+}
+.section h2 {
+  padding-top: 59px;
+  margin-top: -59px;
+}
+.section h3 {
+  padding-top: 59px;
+  margin-top: -59px;
+}
+.section h4 {
+  padding-top: 59px;
+  margin-top: -59px;
+}
+.section h5 {
+  padding-top: 59px;
+  margin-top: -59px;
+}
+.section h6 {
+  padding-top: 59px;
+  margin-top: -59px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">GoSee</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="call.html">Call</a>
+</li>
+<li>
+  <a href="schedule.html">Schedule</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Call for presentations</h1>
+
+</div>
+
+
+<p><br></p>
+<p><img src="images/egmont-long-small.png" width="100%" /></p>
+<p><br></p>
+<p>Crisis often leads to innovations that were already available but unexploited. By relying on online technologies such as Zoom, we currently have an incredible ability to scale up academic and policy-oriented workshops at minimal cost, allowing for broader participation, increased inclusion, and a greater diversity of voices.</p>
+<p><br></p>
+<p>To receive information about our events and/or to submit to present, please <a href="https://edrubin.typeform.com/to/WpCbOW">register here</a>.</p>
+<div id="section" class="section level1 tabset tabset-fade">
+<h1></h1>
+<div id="what" class="section level2">
+<h2><strong>What</strong></h2>
+<p><br></p>
+<p>GoSee workshops will initially take place twice a month at a time that facilitates participation from scholars around the world. Each workshop will have a focused theme with a goal of fostering detailed discussion and promoting subsequent collaborations.</p>
+<p><br><br></p>
+<hr />
+<p><font color="#d3d3d3"><em>Image credits:</em> ESA/Copernicus/Sentinel-2, <a href="http://www.esa.int/ESA_Multimedia/Terms_and_Conditions">CC BY-SA 3.0 IGO</a></font></p>
+</div>
+<div id="when" class="section level2">
+<h2><strong>When</strong></h2>
+<p><br></p>
+<p>The first workshop will take place 22 April 2020 at 7am PST to mark Earth Day.</p>
+<p>The theme of the first workshop will be <em>What are environmental and resource economists doing to inform solutions to COVID-19?</em></p>
+<p><br><br></p>
+<hr />
+<p><font color="#d3d3d3"><em>Image credits:</em> ESA/Copernicus/Sentinel-2, <a href="http://www.esa.int/ESA_Multimedia/Terms_and_Conditions">CC BY-SA 3.0 IGO</a></font></p>
+</div>
+<div id="format" class="section level2">
+<h2><strong>Format</strong></h2>
+<p><br></p>
+<p>Each GoSee workshop will last two hours and will typically feature four papers (15 minutes, each), discussants (5 minutes each), and additional Q&amp;A with the audience. We will also consider shorter presentations (5 minutes) without discussants, for projects that are at initial stages. Papers for 15-minute presentations should be developed enough for a presentation that stresses data, methods, results, or solutions that can easily be implemented on the ground. Some workshops will have more of a roundtable format, with presentations by policymakers, NGOs or private sector on research needs.</p>
+<p>Each workshop will be recorded and posted on here. We will develop a discussion board for additional questions and comments</p>
+<p><br><br></p>
+<hr />
+<p><font color="#d3d3d3"><em>Image credits:</em> ESA/Copernicus/Sentinel-2, <a href="http://www.esa.int/ESA_Multimedia/Terms_and_Conditions">CC BY-SA 3.0 IGO</a></font></p>
+</div>
+<div id="registration-andor-submission" class="section level2">
+<h2><strong>Registration and/or submission</strong></h2>
+<div id="when-will-i-present" class="section level4">
+<h4>When will I present?</h4>
+<p>A unique feature of GoSee is that everybody will have a chance to present. Of course, what you want to know is when. The role of those putting the workshops together is to identify groups of 4 papers that fit together around specific themes while maximizing global representation.</p>
+</div>
+<div id="submission-details" class="section level4">
+<h4>Submission details</h4>
+<p>Given the structure of GoSee workshops, we will accept submissions on a rolling basis, starting Friday, April 3rd. Authors can submit individual papers or complete proposals for workshops. Proposals for workshops will typically require that papers come from a diverse group of participants (not just the usual suspects).</p>
+</div>
+<div id="initial-thematic-areas" class="section level4">
+<h4>Initial thematic areas</h4>
+<p>While this list is far from complete, to facilitate the rapid organization of workshops for April and May, we are particularly interested in submissions from scholars working in the following areas:</p>
+<ul>
+<li><strong>Climate Change:</strong> mitigation, adaptation, advances in econometric methods, advances in integrated models</li>
+<li><strong>Smart Cities:</strong> <em>e.g.</em>, novel uses of big data in the design and management of cities</li>
+<li><strong>Inequality in access and outcomes:</strong> environmental justice, inequalities in adaptation, inequalities in exposure, solutions to inequality</li>
+<li><strong>Energy Systems:</strong> electrification, transportation, renewable energy, grid, markets</li>
+<li><strong>Environmental Quality:</strong> air, water, etc.</li>
+<li>Political Economy, Property Rights, and Institutions</li>
+<li><strong>Coupled Systems:</strong> epid-econ systems, climate-econ systems, etc.</li>
+<li><strong>Resource Management:</strong> fisheries, forests, ground water, land use, etc</li>
+</ul>
+<p><br><br></p>
+<hr />
+<p><font color="#d3d3d3"><em>Image credits:</em> ESA/Copernicus/Sentinel-2, <a href="http://www.esa.int/ESA_Multimedia/Terms_and_Conditions">CC BY-SA 3.0 IGO</a></font></p>
+</div>
+</div>
+</div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-88887510-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-88887510-4');
+</script>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
