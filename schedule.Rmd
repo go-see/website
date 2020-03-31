@@ -19,7 +19,9 @@ knitr::include_graphics(c(
 
 <br>
 
-TBD on Zoom
+**When:** Wednesday, [22 April 2020, 7AM-9AM PST](https://everytimezone.com/s/2e1253ba)
+<br>
+**Where:** Zoom (a meeting link will be shared with registrants)
 
 <br><br>
 
