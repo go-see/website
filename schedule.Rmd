@@ -92,7 +92,7 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
       <td>
       	<b>Using real cell phone data to model behavior in an economic-epidemiological model of COVID-19</b>
 	    	<br>Jude Bayham (Colorado State) and Eli Fenichel (Yale)
-	    	<br><i>Discussant:</i> Discussant: Juan Moreno Cruz (Waterloo)
+	    	<br><i>Discussant:</i> Juan Moreno Cruz (Waterloo)
 	    	<br><br>
       </td>
     </tr>
