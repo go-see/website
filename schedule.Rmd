@@ -17,17 +17,110 @@ knitr::include_graphics(c(
 
 ## **Upcoming events**
 
-<br>
-
-**When:** Wednesday, [22 April 2020, 7AM-9AM PST](https://everytimezone.com/s/2e1253ba)
-
-**Where:** Zoom (a meeting link will be shared with registrants)
+Please [join the mailing list or submit an abstract here](https://edrubin.typeform.com/to/WpCbOW).
 
 <br>
 
-To receive information about our events and/or to submit to present, please [register here](https://edrubin.typeform.com/to/WpCbOW).
+### How are environmental economists contributing to COVID-19 knowledge/solutions?
+
+**When:** Wednesday, [22 April 2020, 7AM-9AM PST](https://everytimezone.com/s/b14ac038)
+
+**Where:** Zoom. [Register to receive the Zoom link here.](https://cornell.zoom.us/webinar/register/WN_Gihv3AJeSuic_yMQYe8DEQ )
+
+**Program:** 
+
+  <p>
+  <table style="width:100%">
+    <tr>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+    </tr>
+    <!-- Talk 1 -->
+    <tr valign="top">
+      <td>&nbsp;&nbsp;&nbsp;</td>
+      <td>7:00am</td>
+      <td>
+      	<b>Causal empirical estimates suggest COVID-19 transmission rates are highly seasonal</b>
+      	<br>Tamma Carleton (Chicago; UCSB) and Kyle Meng (UCSB)
+      	<br><i>Discussant:</i> Frances Moore (UC Davis)
+      	<br><br>
+      </td>
+    </tr>
+    <!-- Talk 2 -->
+    <tr valign="top">
+      <td></td>
+      <td>7:25am</td>
+      <td>
+      	<b>COVID-19, city lockdowns, and air pollution</b>
+      	<br>Guojun He (HKUST), Yuhang Pan (HKUST), and Takanao TanaKa (HKUST)
+      	<br><i>Discussant:</i> Shuang Zheng (Colorado)
+      	<br><br>
+      </td>
+    </tr>
+    <!-- Talk 3 -->
+    <tr valign="top">
+      <td></td>
+      <td>7:50am</td>
+      <td><b>
+      		Social distancing measures following the COVID-19 epidemic
+      		<br>had positive environmental consequences
+      	</b>
+      	<br>Maurizio Malpede (Bocconi), Marco Percoco (Bocconi), and Valentina Bosetti (Bocconi; RFF-CMC)
+      	<br><i>Discussant:</i> TBA
+      	<br><br>
+      </td>
+    </tr>
+    <!-- Talk 4 -->
+    <tr valign="top">
+      <td></td>
+      <td>8:15am</td>
+      <td>
+      	<b>
+      		Modeling of individual behavior in coupled economic-epidemiological models
+      		<br>affects projections of disease dynamics, economic outcomes, and policy impacts
+      	</b>
+	    	<br>Thomas Ash (USC), Ana Bento (Indiana), Antonio Bento (USC), Daniel Kaffine (Colorado), and Akhil Rao (Middlebury)
+	    	<br><i>Discussant:</i> TBA
+	    	<br><br>
+      </td>
+    </tr>
+    <!-- Talk 5 -->
+    <tr valign="top">
+      <td></td>
+      <td>8:40am</td>
+      <td>
+      	<b>Using real cell phone data to model behavior in an economic-epidemiological model of COVID-19</b>
+	    	<br>Jude Bayham (Colorado State) and Eli Fenichel (Yale)
+	    	<br><i>Discussant:</i> Discussant: Juan Moreno Cruz (Waterloo)
+	    	<br><br>
+      </td>
+    </tr>
+  </table>
+  </p>
+
+<br>
+
+### Inequality in environmental access and outcomes
+
+**When:** Wednesday, [06 May 2020, 7AM-9AM PST](https://everytimezone.com/s/c36b9416)
+
+**Where:** Zoom. Link coming soon.
+
+**Program:** Forthcoming. [Please apply!](https://edrubin.typeform.com/to/WpCbOW)
 
 <br><br>
+
+### Climate change
+
+**When:** Wednesday, [20 May 2020, 7AM-9AM PST](https://everytimezone.com/s/775e8dfd)
+
+**Where:** Zoom. Link coming soon.
+
+**Program:** Forthcoming. [Please apply!](https://edrubin.typeform.com/to/WpCbOW)
+
+
+<br><br><br>
 
 ---
 
