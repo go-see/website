@@ -41,8 +41,8 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
       <td>&nbsp;&nbsp;&nbsp;</td>
       <td>7:00am</td>
       <td>
-      	<b>Causal empirical estimates suggest COVID-19 transmission rates are highly seasonal</b>
-      	<br>Tamma Carleton (Chicago; UCSB) and Kyle Meng (UCSB)
+      	<b>UV radiation decreases COVID-19 growth rate: Global causal estimates and seasonal implications</b>
+      	<br>Tamma Carleton (Chicago; UCSB), Jules Cornetet (PSE), Kyle Meng (UCSB), and Jon Proctor (Harvard)
       	<br><i>Discussant:</i> Frances Moore (UC Davis)
       	<br><br>
       </td>
