@@ -21,83 +21,6 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
 
 <br>
 
-### How are environmental economists contributing to COVID-19 knowledge/solutions?
-
-**When:** Wednesday, [22 April 2020, 7AM-9AM PST](https://everytimezone.com/s/b14ac038)
-
-**Where:** Zoom. <a href="https://cornell.zoom.us/webinar/register/WN_Gihv3AJeSuic_yMQYe8DEQ">Register to receive the Zoom link here.</a>
-
-**Program:** 
-
-  <p>
-  <table style="width:100%">
-    <tr>
-      <th> </th>
-      <th> </th>
-      <th> </th>
-    </tr>
-    <!-- Talk 1 -->
-    <tr valign="top">
-      <td>&nbsp;&nbsp;&nbsp;</td>
-      <td>7:00am</td>
-      <td>
-      	<b>UV radiation decreases COVID-19 growth rate: Global causal estimates and seasonal implications</b>
-      	<br>Tamma Carleton (Chicago; UCSB), Jules Cornetet (PSE), Peter Huybers (Harvard), Kyle Meng (UCSB), and Jon Proctor (Harvard)
-      	<br><i>Discussant:</i> Frances Moore (UC Davis)
-      	<br><br>
-      </td>
-    </tr>
-    <!-- Talk 2 -->
-    <tr valign="top">
-      <td></td>
-      <td>7:25am</td>
-      <td>
-      	<b>COVID-19, city lockdowns, and air pollution</b>
-      	<br>Guojun He (HKUST), Yuhang Pan (HKUST), and Takanao Tanaka (HKUST)
-      	<br><i>Discussant:</i> Shuang Zheng (Colorado)
-      	<br><br>
-      </td>
-    </tr>
-    <!-- Talk 3 -->
-    <tr valign="top">
-      <td></td>
-      <td>7:50am</td>
-      <td><b>
-      		Social distancing measures following the COVID-19 epidemic had positive environmental consequences
-      	</b>
-      	<br>Maurizio Malpede (Bocconi), Marco Percoco (Bocconi), and Valentina Bosetti (Bocconi; RFF-CMC)
-      	<br><br>
-      </td>
-    </tr>
-    <!-- Talk 4 -->
-    <tr valign="top">
-      <td></td>
-      <td>8:15am</td>
-      <td>
-      	<b>
-      		Modeling of individual behavior in coupled economic-epidemiological models
-      		<br>affects projections of disease dynamics, economic outcomes, and policy impacts
-      	</b>
-	    	<br>Thomas Ash (USC), Ana Bento (Indiana), Antonio Bento (USC), Daniel Kaffine (Colorado), and Akhil Rao (Middlebury)
-	    	<br><br>
-      </td>
-    </tr>
-    <!-- Talk 5 -->
-    <tr valign="top">
-      <td></td>
-      <td>8:40am</td>
-      <td>
-      	<b>Using real cell phone data to model behavior in an economic-epidemiological model of COVID-19</b>
-	    	<br>Jude Bayham (Colorado State) and Eli Fenichel (Yale)
-	    	<br><i>Discussant:</i> Juan Moreno Cruz (Waterloo)
-	    	<br><br>
-      </td>
-    </tr>
-  </table>
-  </p>
-
-<br>
-
 ### Inequality in environmental access and outcomes
 
 **When:** Wednesday, [06 May 2020, 7AM-9AM PST](https://everytimezone.com/s/c36b9416)
@@ -128,7 +51,80 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
 
 <br>
 
-We will post links to the videos from past seminars here.
+### How are environmental economists contributing to COVID-19 knowledge/solutions?
+
+Wednesday, 22 April 2020, 7AM-9AM PST
+
+<center>
+  <div style="max-width:608px"><div style="position:relative;padding-bottom:66.118421052632%"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/520801/sp/52080100/embedIframeJs/uiconf_id/31230141/partner_id/520801?iframeembed=true&playerId=kaltura_player&entry_id=1_996war0h&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[mediaProxy.mediaPlayFrom]=9900&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_3dgndm5l" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
+</center>
+
+  <p>
+  <table style="width:100%">
+    <tr>
+      <th> </th>
+      <!-- <th> </th> -->
+      <th> </th>
+    </tr>
+    <!-- Talk 1 -->
+    <tr valign="top">
+      <td>&nbsp;&nbsp;&nbsp;</td>
+      <!-- <td>7:00am</td> -->
+      <td>
+        <b>UV radiation decreases COVID-19 growth rate: Global causal estimates and seasonal implications</b>
+        <br>Tamma Carleton (Chicago; UCSB), Jules Cornetet (PSE), Peter Huybers (Harvard), Kyle Meng (UCSB), and Jon Proctor (Harvard)
+        <br><i>Discussant:</i> Frances Moore (UC Davis)
+        <br><br>
+      </td>
+    </tr>
+    <!-- Talk 2 -->
+    <tr valign="top">
+      <td></td>
+      <!-- <td>7:25am</td> -->
+      <td>
+        <b>COVID-19, city lockdowns, and air pollution</b>
+        <br>Guojun He (HKUST), Yuhang Pan (HKUST), and Takanao Tanaka (HKUST)
+        <br><i>Discussant:</i> Shuang Zheng (Colorado)
+        <br><br>
+      </td>
+    </tr>
+    <!-- Talk 3 -->
+    <tr valign="top">
+      <td></td>
+      <!-- <td>7:50am</td> -->
+      <td><b>
+          Social distancing measures following the COVID-19 epidemic had positive environmental consequences
+        </b>
+        <br>Maurizio Malpede (Bocconi), Marco Percoco (Bocconi), and Valentina Bosetti (Bocconi; RFF-CMC)
+        <br><br>
+      </td>
+    </tr>
+    <!-- Talk 4 -->
+    <tr valign="top">
+      <td></td>
+      <!-- <td>8:15am</td> -->
+      <td>
+        <b>
+          Modeling of individual behavior in coupled economic-epidemiological models
+          <br>affects projections of disease dynamics, economic outcomes, and policy impacts
+        </b>
+        <br>Thomas Ash (USC), Ana Bento (Indiana), Antonio Bento (USC), Daniel Kaffine (Colorado), and Akhil Rao (Middlebury)
+        <br><br>
+      </td>
+    </tr>
+    <!-- Talk 5 -->
+    <tr valign="top">
+      <td></td>
+      <!-- <td>8:40am</td> -->
+      <td>
+        <b>Using real cell phone data to model behavior in an economic-epidemiological model of COVID-19</b>
+        <br>Jude Bayham (Colorado State) and Eli Fenichel (Yale)
+        <br><i>Discussant:</i> Juan Moreno Cruz (Waterloo)
+        <br><br>
+      </td>
+    </tr>
+  </table>
+  </p>
 
 <br><br>
 
