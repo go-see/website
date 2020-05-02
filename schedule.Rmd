@@ -54,7 +54,7 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
       <td>
         <a href="https://www.researchgate.net/publication/333507553_Yellow_Vests_Carbon_Tax_Aversion_and_Biased_Beliefs">Yellow Vests, Carbon Tax Aversion, and Biased Beliefs</a>
         <br>Thomas Douenne (PSE/Amsterdam) and <b>Adrien Fabre</b> (PSE/ETH Zürich)
-        <br><i>Discussant:</i> TBA
+        <br><i>Discussant:</i> Soren Anderson (Michigan State)
         <br><br>
       </td>
     </tr>
@@ -76,7 +76,7 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
       <td>
         <a href="https://ideas.repec.org/p/apc/wpaper/134.html">Long-term effects of weather during gestation on education and labor outcomes: Evidence from Peru</a>
         <br><b>Manuel Barrón</b> (Universidad del Pacifico), Sam Heft-Neal (Stanford), and Tania Perez (Universidad del Pacifico)
-        <br><i>Discussant:</i> TBA
+        <br><i>Discussant:</i> Ludovica Gazze (Chicago/Warwick)
         <br><br>
       </td>
     </tr>
