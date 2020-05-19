@@ -53,7 +53,7 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
       <td>7:25AM PST</td>
       <td>
         <u>Global food prices, local weather and migration in Sub-Saharan Africa</u>
-        <br><b>Barbora Sedova</b> (MCC Berlin)
+        <br>Lars Ludolph (LSE) and <b>Barbora Sedova</b> (MCC Berlin)
         <br><i>Discussant:</i> Joyce Chen (Ohio State)
         <br><br>
       </td>
