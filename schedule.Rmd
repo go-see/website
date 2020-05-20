@@ -21,25 +21,43 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
 
 <br>
 
+### Air quality
+
+**When:** Wednesday, [03 June 2020, 7AM-8:40AM PST](https://everytimezone.com/s/3a94b2a4)
+
+**Where:** Zoom. Registration link coming soon.
+
+**Program:** In progress.
+
+<br><br><br>
+
+---
+
+<font color="#d3d3d3">*Image credits:* ESA/Copernicus/Sentinel-2, [CC BY-SA 3.0 IGO](http://www.esa.int/ESA_Multimedia/Terms_and_Conditions)</font>
+
+## **Past events**
+
+<br>
+
 ### Climate impacts
 
-**When:** Wednesday, [20 May 2020, 7AM-8:40AM PST](https://everytimezone.com/s/775e8dfd)
+Wednesday, 20 May 2020, 7AM-8:40AM PST
 
-**Where:** Zoom. <a href="https://cornell.zoom.us/webinar/register/WN_j8ljJxV3RaifMKelqe-btw">Register here for Zoom link.</a>
-
-**Program:** 
+<center>
+  <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/520801/sp/52080100/embedIframeJs/uiconf_id/31230141/partner_id/520801?iframeembed=true&playerId=kaltura_player&entry_id=1_5lcix8ki&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_3lhhz8z8" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
+</center>
 
 <p>
   <table style="width:100%">
     <tr>
       <th> </th>
-      <th> </th>
+      <!-- <th> </th> -->
       <th> </th>
     </tr>
     <!-- Talk 1 -->
     <tr valign="top">
       <td>&nbsp;&nbsp;&nbsp;</td>
-      <td>7:00AM PST</td>
+      <!-- <td>7:00AM PST</td> -->
       <td>
         <u>Can Social Protection Reduce Environmental Damages?</u>
         <br><b>Teevrat Garg</b> (UCSD), Gordon C. McCord (UCSD) and Aleister Montfort (World Bank)
@@ -50,7 +68,7 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
     <!-- Talk 2 -->
     <tr valign="top">
       <td></td>
-      <td>7:25AM PST</td>
+      <!-- <td>7:25AM PST</td> -->
       <td>
         <u>Global food prices, local weather and migration in Sub-Saharan Africa</u>
         <br>Lars Ludolph (LSE) and <b>Barbora Sedova</b> (MCC Berlin)
@@ -61,7 +79,7 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
     <!-- Talk 3 -->
     <tr valign="top">
       <td></td>
-      <td>7:50AM PST</td>
+      <!-- <td>7:50AM PST</td> -->
       <td>
         <u>Climate Contagion: Temperature and Growth in Spatial General Equilibrium</u>
         <br>Gary Lyn (Iowa State), Ariel Ortiz-Bobea (Cornell), <b>Ivan Rudik</b> (Cornell)
@@ -72,7 +90,7 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
     <!-- Talk 4 -->
     <tr valign="top">
       <td></td>
-      <td>8:15AM PST</td>
+      <!-- <td>8:15AM PST</td> -->
       <td>
         <u>Heat and Health: A Tale of a Tropical City</u>
         <br><b>Vinicius Peçanha</b> (UBC), Rudi Rocha (FGV), Dimitri Szerman (Mannheim)
@@ -83,22 +101,12 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
   </table>
 </p>
 
-
-
-<br><br><br>
-
----
-
-<font color="#d3d3d3">*Image credits:* ESA/Copernicus/Sentinel-2, [CC BY-SA 3.0 IGO](http://www.esa.int/ESA_Multimedia/Terms_and_Conditions)</font>
-
-
-## **Past events**
-
 <br> 
 
 ### Inequality in environmental access and outcomes
 
-**When:** Wednesday, [06 May 2020, 7AM-9AM PST](https://everytimezone.com/s/c36b9416)
+Wednesday, 06 May 2020, 7AM-9AM PST
+
 <center>
   <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/520801/sp/52080100/embedIframeJs/uiconf_id/31230141/partner_id/520801?iframeembed=true&playerId=kaltura_player&entry_id=1_q00i8mwm&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_jjfe89us" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
 </center>
