@@ -29,23 +29,13 @@ GoSee workshops will initially take place twice a month at a time that facilitat
 
 <br><br>
 
----
-
-<font color="#d3d3d3">*Image credits:* ESA/Copernicus/Sentinel-2, [CC BY-SA 3.0 IGO](http://www.esa.int/ESA_Multimedia/Terms_and_Conditions)</font>
-
 ## **When**
 
 <br>
 
-The [first workshop will take place 22 April 2020](https://gosee.io/schedule.html) at 7am PST to mark Earth Day.
-
-The theme of the first workshop will be *What are environmental and resource economists doing to inform solutions to COVID-19?*
+Please see the [schedule](schedule.html).
 
 <br><br>
-
----
-
-<font color="#d3d3d3">*Image credits:* ESA/Copernicus/Sentinel-2, [CC BY-SA 3.0 IGO](http://www.esa.int/ESA_Multimedia/Terms_and_Conditions)</font>
 
 ## **Format**
 
@@ -57,11 +47,9 @@ Each workshop will be recorded and posted on here. We will develop a discussion 
 
 <br><br>
 
----
-
-<font color="#d3d3d3">*Image credits:* ESA/Copernicus/Sentinel-2, [CC BY-SA 3.0 IGO](http://www.esa.int/ESA_Multimedia/Terms_and_Conditions)</font>
-
 ## **Registration and/or submission**
+
+<br>
 
 #### When will I present?
 
@@ -85,6 +73,10 @@ While this list is far from complete, to facilitate the rapid organization of wo
 - **Resource Management:** fisheries, forests, ground water, land use, etc
 
 <br><br>
+
+#
+
+<br>
 
 ---
 
