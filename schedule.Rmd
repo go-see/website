@@ -25,7 +25,7 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
 
 **When:** Wednesday, 12 August 2020, 8AM-9PM PST (11AM–12PM EST)
 
-**Where:** Zoom. Registration link coming soon.
+**Where:** Zoom. <a href="https://cornell.zoom.us/webinar/register/WN_5LD-zcQ6SAKrKoJm4mydgw">Register here.</a>
 
 **Program:** 
 
@@ -54,7 +54,7 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
       <td>
         <u>The Impact of Environmental Regulation on Product Quality: Evidence from Chinese Exporters</u>
         <br><b>Longzhou Wang</b> (Iowa State)
-        <br><i>Discussant:</i> TBA
+        <br><i>Discussant:</i> Shaoda Wang (Chicago)
         <br><br>
       </td>
     </tr>
