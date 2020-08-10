@@ -43,7 +43,7 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
       <td>
         <u>Optimal Global Cost-Benefit Analysis—Policies That Save Lives</u>
         <br><b>Lara Aleluia Reis</b> (RFF-CMCC EIEE), Laurent Drouet (RFF-CMCC EIEE), and Massimo Tavoni (Politecnico di Milano and RFF-CMCC EIEE)
-        <br><i>Discussant:</i> TBA
+        <br><i>Discussant:</i> Katherine Wagner (Stanford/UC Berkeley)
         <br><br>
       </td>
     </tr>
