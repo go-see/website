@@ -21,60 +21,6 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
 
 <br>
 
-### Environmental regulation
-
-**When:** Wednesday, 12 August 2020, 8AM-9PM PST (11AM–12PM EST)
-
-**Where:** Zoom. <a href="https://cornell.zoom.us/webinar/register/WN_5LD-zcQ6SAKrKoJm4mydgw">Register here.</a>
-
-**Program:** 
-
-<p>
-  <table style="width:100%">
-    <tr>
-      <th> </th>
-      <!-- <th> </th> -->
-      <th> </th>
-    </tr>
-    <!-- Talk 1 -->
-    <tr valign="top">
-      <td>&nbsp;&nbsp;&nbsp;</td>
-      <td>8:00AM <b>PST</b></td>
-      <td>
-        <u>Optimal Global Cost-Benefit Analysis—Policies That Save Lives</u>
-        <br><b>Lara Aleluia Reis</b> (RFF-CMCC EIEE), Laurent Drouet (RFF-CMCC EIEE), and Massimo Tavoni (Politecnico di Milano and RFF-CMCC EIEE)
-        <br><i>Discussant:</i> Katherine Wagner (Stanford/UC Berkeley)
-        <br><br>
-      </td>
-    </tr>
-    <!-- Talk 2 -->
-    <tr valign="top">
-      <td></td>
-      <td>8:20AM <b>PST</b></td>
-      <td>
-        <u>The Impact of Environmental Regulation on Product Quality: Evidence from Chinese Exporters</u>
-        <br><b>Longzhou Wang</b> (Calgary)
-        <br><i>Discussant:</i> Shaoda Wang (Chicago)
-        <br><br>
-      </td>
-    </tr>
-    <!-- Talk 3 -->
-    <tr valign="top">
-      <td></td>
-      <td>8:40AM <b>PST</b></td>
-      <td>
-        <u>Is Air Pollution Regulation Too Stringent?</u>
-        <br>Joseph S. Shapiro (UC Berkeley) and <b>Reed Walker</b> (UC Berkeley)
-        <br><i>Discussant:</i> Dana Andersen (Alberta)
-        <br><br>
-      </td>
-    </tr>
-  </table>
-</p>
-
-
-<br>
-
 ### Air quality
 
 **When:** Wednesday in September 2020
@@ -88,6 +34,57 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
 ## **Past events**
 
 <br>
+
+### Environmental regulation
+
+Wednesday, 12 August 2020
+
+<center>
+  <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/520801/sp/52080100/embedIframeJs/uiconf_id/31230141/partner_id/520801?iframeembed=true&playerId=kaltura_player&entry_id=1_ncaaba5r&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_rvgyo68p" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
+</center>
+
+<p>
+  <table style="width:100%">
+    <tr>
+      <th> </th>
+      <!-- <th> </th> -->
+      <th> </th>
+    </tr>
+    <!-- Talk 1 -->
+    <tr valign="top">
+      <td>&nbsp;&nbsp;&nbsp;</td>
+      <!-- <td>8:00AM <b>PST</b></td> -->
+      <td>
+        <u>Optimal Global Cost-Benefit Analysis—Policies That Save Lives</u>
+        <br><b>Lara Aleluia Reis</b> (RFF-CMCC EIEE), Laurent Drouet (RFF-CMCC EIEE), and Massimo Tavoni (Politecnico di Milano and RFF-CMCC EIEE)
+        <br><i>Discussant:</i> Katherine Wagner (Stanford/UC Berkeley)
+        <br><br>
+      </td>
+    </tr>
+    <!-- Talk 2 -->
+    <tr valign="top">
+      <td></td>
+      <!-- <td>8:20AM <b>PST</b></td> -->
+      <td>
+        <u>The Impact of Environmental Regulation on Product Quality: Evidence from Chinese Exporters</u>
+        <br><b>Longzhou Wang</b> (Calgary)
+        <br><i>Discussant:</i> Shaoda Wang (Chicago)
+        <br><br>
+      </td>
+    </tr>
+    <!-- Talk 3 -->
+    <tr valign="top">
+      <td></td>
+      <!-- <td>8:40AM <b>PST</b></td> -->
+      <td>
+        <u>Is Air Pollution Regulation Too Stringent?</u>
+        <br>Joseph S. Shapiro (UC Berkeley) and <b>Reed Walker</b> (UC Berkeley)
+        <br><i>Discussant:</i> Dana Andersen (Alberta)
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ### Climate impacts
 
