@@ -21,13 +21,21 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
 
 <br>
 
+### TBA
+
+<br><br><br>
+
+## **Past events**
+
+<br>
+
 ### Forests
 
-**When:** Wednesday, 16 September 2020
+Wednesday, 16 September 2020
 
-**Where:** <a href="https://uoregon.zoom.us/j/92415786358?pwd=Qjk0dVFaRzU3UlBGcnEzcERwTlpXdz09">Zoom link.</a>
+<a href="https://urldefense.com/v3/__https://uoregon.zoom.us/rec/share/7jNjaWB2coZ0QFE6_P7-YzKNs3wDgEZ9tjgqoj9_SJhewZGsOKNo4qmZHlr_a0lH.PMAxwiD3F2uPEK5O__;!!C5qS4YX3!So-Ho77RlWm6qq2pAp4kGIxv9kRtMfoKurMOntevdMJIKhmRmPa5ZFZ9c1c85m-itw$">**Link to recording**</a>
 
-**Program:** 
+**Password:** 5dM.@J$E
 
 <p>
   <table style="width:100%">
@@ -39,7 +47,7 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
     <!-- Talk 1 -->
     <tr valign="top">
       <td>&nbsp;&nbsp;&nbsp;</td>
-      <td>8:00AM <b>PST</b></td>
+      <!-- <td>8:00AM <b>PST</b></td> -->
       <td>
         <u>Environmental Policies That Shape Productivity: Evidence from Cattle Ranching in the Amazon</u>
         <br><b>Fanny Moffette</b> (Wisconsin-Madison), Marin Skidmore (Wisconsin-Madison) and Holly K. Gibbs (Wisconsin-Madison)
@@ -50,7 +58,7 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
     <!-- Talk 2 -->
     <tr valign="top">
       <td></td>
-      <td>8:20AM <b>PST</b></td>
+      <!-- <td>8:20AM <b>PST</b></td> -->
       <td>
         <u>Efficient Forestation in the Brazilian Amazon: Evidence from a Dynamic Model</u>
         <br>Rafael Araujo (FGV EPGE/CPI), <b>Francisco Costa</b> (FGV EPGE/Delaware) and Marcelo Sant'Anna (FGV EPGE)
@@ -61,7 +69,7 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
     <!-- Talk 3 -->
     <tr valign="top">
       <td></td>
-      <td>8:40AM <b>PST</b></td>
+      <!-- <td>8:40AM <b>PST</b></td> -->
       <td>
         <u>Is Global Deforestation under Lockdown?</u>
         <br><b>Santiago Saavedra</b> (Universidad del Rosario)
@@ -71,10 +79,6 @@ Please [join the mailing list or submit an abstract here](https://edrubin.typefo
     </tr>
   </table>
 </p>
-
-<br><br><br>
-
-## **Past events**
 
 <br>
 
@@ -128,6 +132,8 @@ Wednesday, 12 August 2020
     </tr>
   </table>
 </p>
+
+<br>
 
 ### Climate impacts
 
